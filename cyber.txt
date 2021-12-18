@@ -1,1 +1,2 @@
-*.nvidia.com
+download.nvidia.com
+*.download.nvidia.com
